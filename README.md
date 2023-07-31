@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattia Zanovello</h1>
 <h3 align="center">A IT student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zanovellomattia" alt="zanovellomattia" /></a> </p>
+
 
 - 📫 How to reach me **mattiazanovello2000@gmail.com**
 
@@ -16,3 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zanovellomattia&show_icons=true&locale=en&layout=compact" alt="zanovellomattia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zanovellomattia&show_icons=true&locale=en" alt="zanovellomattia" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zanovellomattia" alt="zanovellomattia" /></a> </p>
