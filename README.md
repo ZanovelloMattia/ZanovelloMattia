@@ -21,7 +21,7 @@
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning **SyberSecurity**
+- 🌱 I’m currently learning **CyberSecurity**
 
 - 💬 Ask me about **Java**
 
